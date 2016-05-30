@@ -1,5 +1,5 @@
 {
-  "name": "stream-csv",
+  "name": "stream-line2csv",
   "version": "1.0.0",
   "description": "Parse a stream of lines into CSV",
   "main": "index.js",
