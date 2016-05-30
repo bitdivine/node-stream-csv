@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitdivine/node-stream-csv.git"
+    "url": "https://github.com/bitdivine/node-stream-line2csv.git"
   },
   "keywords": [
     "stream",
@@ -20,9 +20,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bitdivine/node-stream-csv/issues"
+    "url": "https://github.com/bitdivine/node-stream-line2csv/issues"
   },
-  "homepage": "https://github.com/bitdivine/node-stream-csv",
+  "homepage": "https://github.com/bitdivine/node-stream-line2csv",
   "dependencies": {
     "stream": "0.0.2"
   },
